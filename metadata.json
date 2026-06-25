@@ -1,0 +1,8 @@
+{
+  "name": "DeadlineGuardian AI",
+  "description": "Upload deadlines, project briefs, or syllabus documents. Get AI-powered task breakdowns, risk diagnostics, dynamic completion forecasting, and a 'Save My Week' recovery plan with Google Calendar syncing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
