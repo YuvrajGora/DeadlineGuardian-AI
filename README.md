@@ -15,8 +15,8 @@ DeadlineGuardian AI is a sophisticated full-stack document-intelligence assistan
 ---
 
 ## 🔗 Live Access & Repository
-* **Live Production App:** [https://ais-pre-mxxdnqtxqs2bwxcoz5uvoo-974323825678.asia-east1.run.app](https://ais-pre-mxxdnqtxqs2bwxcoz5uvoo-974323825678.asia-east1.run.app)
-* **GitHub Repository:** `https://github.com/yuvrajgora10mar/DeadlineGuardian-AI` *(Configured in Google AI Studio Settings)*
+* **Live Production App:** [https://deadlineguardian-ai-937598486988.us-west1.run.app](https://deadlineguardian-ai-937598486988.us-west1.run.app)
+* **GitHub Repository:** `https://github.com/YuvrajGora/DeadlineGuardian-AI` 
 
 ---
 
